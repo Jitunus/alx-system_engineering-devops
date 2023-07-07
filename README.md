@@ -1,1 +1,1 @@
-shell permission
+shell permissions 0x01
