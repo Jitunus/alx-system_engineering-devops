@@ -1,2 +1,2 @@
 #!/bin/bash
-./helloworld.sh
+echo 'hello,world'
